@@ -2,7 +2,10 @@ const movies = [
 	"Obsession",
 	"The Odyssey",
 	"Inglorious Basterds",
-	"Sean of the Dead"
+	"Sean of the Dead",
+	"The Grand Budapest Hotel",
+	"Superbad",
+	"Vivarium"
 ];
 
 export function printMovies() {
