@@ -9,4 +9,4 @@ export function printMovies() {
 	console.log(["Ethan's movies are:", ...movies].join("\n"));
 }
 
-printMovies();
+// printMovies();
