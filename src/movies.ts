@@ -1,4 +1,4 @@
-export const movies = [
+export const movies: string[] = [
 	"Obsession",
 	"The Odyssey",
 	"Inglorious Basterds",
@@ -8,7 +8,7 @@ export const movies = [
 	"Vivarium"
 ];
 
-export function printMovies() {
+export function printMovies(): void {
 	console.log(["Ethan's movies are:", ...movies].join("\n"));
 }
 
