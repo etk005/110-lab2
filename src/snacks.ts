@@ -1,10 +1,6 @@
 export const snacks: string[] = [
   "Skittles",
-  "Pringles",
-  "Fruit Snacks",
-  "Lays chips",
-  "Doritos",
-  "Cheetos"
+  "Pringles"
 ];
 
 export function printSnacks(): void {
