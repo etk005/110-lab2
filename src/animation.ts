@@ -14,4 +14,4 @@ export function animation(feature) {
 	return bold(italics(`Party! Party! Party! - ${capitalize(feature)} Time`));
 }
 
-console.log(animation("snacks"));
+//console.log(animation("snacks"));
